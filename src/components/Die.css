@@ -13,3 +13,7 @@
 .die-num {
     font-size: 2rem;
 }
+
+.held {
+    background-color: green;
+}
